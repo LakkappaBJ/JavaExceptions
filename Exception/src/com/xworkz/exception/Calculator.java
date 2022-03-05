@@ -11,8 +11,8 @@ public class Calculator {
 //===================================================================================
 		System.out.println("starting main()");
 		int num1 = 0;
-		
 		int num2 = 10;
+		//int num2 = 10;
 		String s=null;
 		try {
 			System.out.println(s.toLowerCase());
